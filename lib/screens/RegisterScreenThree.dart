@@ -70,7 +70,7 @@ class RegisterScreenOThree extends StatelessWidget {
                         style: TextStyle(
                             color: Color.fromRGBO(96, 96, 96, 1),
                             fontSize: 12,
-                            fontWeight: FontWeight.bold),
+                            fontWeight: FontWeight.bold),    
                       ),
                     ),
                   ],
@@ -82,6 +82,7 @@ class RegisterScreenOThree extends StatelessWidget {
                     keyboardType: TextInputType.phone,
                     decoration: InputDecoration(
                       fillColor: Colors.white,
+                      hintText: '**********************',
                       filled: true,
                       suffixIcon: Icon(Icons.visibility_sharp,
                           color: Color.fromRGBO(224, 130, 180, 1)),
