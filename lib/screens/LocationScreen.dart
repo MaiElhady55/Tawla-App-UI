@@ -1,7 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/src/foundation/key.dart';
-import 'package:flutter/src/widgets/container.dart';
-import 'package:flutter/src/widgets/framework.dart';
 import 'package:tawla_app/config/app_colors.dart';
 import 'package:tawla_app/widgets/CustomTextField.dart';
 
@@ -51,7 +48,7 @@ class LocationScreen extends StatelessWidget {
                                 textType: TextInputType.text,
                                 height: 42,
                                 contentPadding: EdgeInsets.all(0),
-                                prefixIcon: Icon(Icons.location_on,color: AppColors.MAIN,size: 15,), controller: ,
+                                prefixIcon: Icon(Icons.location_on,color: AppColors.MAIN,size: 15,),
                               )
                             ],
                           ),
