@@ -44,10 +44,10 @@ class LocationScreen extends StatelessWidget {
                                     )),
                               ),
                               CustomTextField(
-                                hintText: 'اسم المظعم/الكافية',
+                                hintText: 'اسم المطعم/الكافية',
                                 textType: TextInputType.text,
                                 height: 42,
-                                contentPadding: EdgeInsets.all(0),
+                                contentPadding: EdgeInsets.zero,
                                 prefixIcon: Icon(Icons.location_on,color: AppColors.MAIN,size: 15,),
                               )
                             ],

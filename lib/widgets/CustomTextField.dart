@@ -50,6 +50,7 @@ class CustomTextField extends StatelessWidget {
                 borderRadius: BorderRadius.circular(30),
                 borderSide: BorderSide.none),
             suffixIcon: icon,
+            prefixIcon: prefixIcon
           ),
         ),
       ),
