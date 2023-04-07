@@ -23,8 +23,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ![otp](https://user-images.githubusercontent.com/122188401/229962767-29058897-8154-47b9-a55d-7cc918083cfa.jpeg)
 
-![WhatsApp Image 2023-04-05 at 12 13 34 AM (4)](https://user-images.githubusercontent.com/122188401/229962463-d8062d4b-0b49-416e-ad02-eb067a662c09.jpeg)
-
 ![WhatsApp Image 2023-04-05 at 12 13 34 AM (4)](https://user-images.githubusercontent.com/122188401/229963753-891410b3-48e0-4bc3-bab0-63c4e2dd5b25.jpeg)
 
 ![regsister](https://user-images.githubusercontent.com/122188401/229963835-6fa6fce8-d85c-411a-a9ac-4aeb1079e49e.jpeg)
